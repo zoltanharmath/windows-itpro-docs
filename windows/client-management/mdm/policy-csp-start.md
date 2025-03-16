@@ -735,7 +735,7 @@ A reboot is required for this policy setting to take effect.
 
 | Property name | Property value |
 |:--|:--|
-| Format | `chr` (string) |
+| Format | `int` |
 | Access Type | Add, Delete, Get, Replace |
 <!-- DisableControlCenter-DFProperties-End -->
 
